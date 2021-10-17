@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## FEDERAL GOVERNMENT GRANT
 
 You can use the [editor on GitHub](https://github.com/Deejaydanik/fg/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
